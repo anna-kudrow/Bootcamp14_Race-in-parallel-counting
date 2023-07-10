@@ -1,0 +1,15 @@
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.csproj.AssemblyReference.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.AssemblyInfoInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.AssemblyInfo.cs
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.csproj.CoreCompileInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/bin/Debug/net6.0/Bootcamp14_Race-in-parallel-counting
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/bin/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.deps.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/bin/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.runtimeconfig.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/bin/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/bin/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/refint/Bootcamp14_Race-in-parallel-counting.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/Bootcamp14_Race-in-parallel-counting.genruntimeconfig.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/Bootcamp/Bootcamp14_Race-in-parallel-counting.git/Bootcamp14_Race-in-parallel-counting/obj/Debug/net6.0/ref/Bootcamp14_Race-in-parallel-counting.dll
